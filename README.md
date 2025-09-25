@@ -126,4 +126,4 @@ This is a workshop project. Feel free to fork and modify for your own learning p
 This project is open source and available under the [MIT License](LICENSE).
 
 
-Built with ❤️ using Streamlit and Google Gemini AI
+Built with ❤️ By Raghul-M using Streamlit and Google Gemini AI
