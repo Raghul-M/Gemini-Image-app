@@ -23,10 +23,10 @@ jobs:
         password: ${{ secrets.DOCKER_PASSWORD }}
 
     - name: Build Docker image
-      run: docker build -t ${{ secrets.DOCKER_USER }}/gemini-nano-app:v1 . 
+      run: docker build -t ${{ secrets.DOCKER_USER }}/gemini-nano-app:latest . 
 
     - name: Push Docker image
-      run: docker push ${{ secrets.DOCKER_USER }}/gemini-nano-app:v1
+      run: docker push ${{ secrets.DOCKER_USER }}/gemini-nano-app:latest
 
   deploy: 
      runs-on: ubuntu-latest
