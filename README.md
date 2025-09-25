@@ -2,6 +2,10 @@
 
 A Streamlit web application that generates amazing images using Google's Gemini Nnao AI model. This project is designed for workshop demonstrations and learning purposes.
 
+![Streamlit -app (1)](https://github.com/user-attachments/assets/a2e2a7e5-cf9d-4dc8-bb85-001ddf8685d6)
+
+
+
 ## Features
 
 -  Generate images from text prompts using Google Gemini AI
