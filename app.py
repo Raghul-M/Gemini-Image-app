@@ -10,7 +10,7 @@ from PIL import Image
 
 load_dotenv()
 
-st.title("Gemini Image Generator App 🎋")
+st.title("Gemini Nano GPT 🎋")
 st.markdown("Generate amazing images using Google's Gemini AI model!")
 
 
