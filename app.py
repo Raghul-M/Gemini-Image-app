@@ -103,4 +103,4 @@ if generate_button and prompt and api_key:
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ using Streamlit and Google Gemini AI")
+st.markdown("Built with ❤️ using Streamlit and Google Gemini Nano AI")
